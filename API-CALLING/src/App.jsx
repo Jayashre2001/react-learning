@@ -7,7 +7,7 @@ const App = () => {
   return (
     <>
     <div>
-    
+    w
       <Store/>
       <Pagenaition/>
       <Search/>
